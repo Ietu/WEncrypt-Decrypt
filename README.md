@@ -15,7 +15,7 @@ Use at your own risk! Even though this has always worked for me I can never quar
 Python Encryptor and Decryptor, part of upcoming Wratheon RAT tool. Easy to implement into a project to encrypt or decrypt files.
 
 
-If Encryptor is run with ***no arguments***, opens a file dialog to select folder to encrypt, but it can be run with arguments.
+If Encryptor is run with ***no arguments***, opens a file dialog to select folder to encrypt, but it can be run with arguments for reasons.
 
 ***Decryptor is only with filedialog currently.***
 
