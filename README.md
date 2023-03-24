@@ -33,3 +33,8 @@ optional arguments:
                         
                         
   `-c {y,n}`, `--copy {y,n}` | Whether to create copies of the original files or encrypt them directly. Enter Y to make copies or N to encrypt the original files.
+
+
+## Example without arguments
+https://user-images.githubusercontent.com/54209182/227652805-8d9ae135-7d3d-497c-8d27-88ed52bc441b.mp4
+
