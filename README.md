@@ -22,6 +22,8 @@ If Encryptor is run with ***no arguments***, opens a file dialog to select folde
 ## Usage
 With arguments: `python WEncrypt.py [-f FOLDER_PATH] [-c {Y,N}]`
 
+Example: `python WEncrypt.py -f E:\path\to\folder\THIS -c n` would encrypt everything in the `THIS` folder
+
 
 
 
