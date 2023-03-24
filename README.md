@@ -1,2 +1,35 @@
+pip install -r requirements.txt
+
 # WEncrypt-Decrypt
-Encryptor and Decryptor
+
+Encrypts/decrypts all files in a folder using the Fernet encryption method. Generates a key in a text file for safety reasons.
+
+## DISCLAIMER
+This encryption script is provided for securing your ***PERSONAL*** files and should not be used for anything else.
+
+Use at your own risk! Even though this has always worked for me I can never quarantee 100% that it can't have any errors!
+
+
+## Info
+
+Python Encryptor and Decryptor, part of upcoming Wratheon RAT tool. Easy to implement into a project to encrypt or decrypt files.
+
+
+If Encryptor is run with no arguments, opens a file dialog to select folder to encrypt. Can be run with arguments.
+
+Decryptor is only with filedialog currently.
+
+## Usage
+With arguments: `python WEncrypt.py [-f FOLDER_PATH] [-c {Y,N}]`
+
+
+
+
+optional arguments:
+  `-h`, `--help` | show this help message and exit
+  
+  
+  `-f FOLDER_PATH`, `--folder FOLDER_PATH` | The path to the folder containing the files to encrypt.
+                        
+                        
+  `-c {y,n}`, `--copy {y,n}` | Whether to create copies of the original files or encrypt them directly. Enter Y to make copies or N to encrypt the original files.
