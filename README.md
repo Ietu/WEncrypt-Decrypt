@@ -7,7 +7,7 @@ Encrypts/decrypts all files in a folder using the Fernet encryption method. Gene
 ## DISCLAIMER
 This encryption script is provided for securing your ***PERSONAL*** files and should not be used for anything else.
 
-Use at your own risk! Even though this has always worked for me I can never quarantee 100% that it can't have any errors!
+Use at your own risk! Even though this has always worked for me I can never quarantee 100% that it can't have any errors.
 
 
 ## Info
