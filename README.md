@@ -2,7 +2,7 @@ pip install -r requirements.txt
 
 # WEncrypt-Decrypt
 
-Encrypts/decrypts all files in a folder using the Fernet encryption method. Generates a key in a text file for safety reasons.
+Encrypts/decrypts all files in a folder using Fernet encryption. Generates a key in a text file for safety reasons.
 
 ## DISCLAIMER
 This encryption script is provided for securing your ***PERSONAL*** files and should not be used for anything else.
